@@ -22,7 +22,7 @@
 <path d="M17.3049 43.5996H18.984C20.2082 43.5996 21.2006 44.592 21.2006 45.8162C21.2006 45.9382 21.2107 46.0602 21.2307 46.1806L21.4355 47.409C21.5454 48.0684 21.7067 48.7182 21.9182 49.3524L22.3755 50.7246C22.3923 50.7746 22.4124 50.8232 22.4359 50.8703C22.874 51.7464 22.0482 52.7202 21.1123 52.4312L19.0291 51.7878C16.9546 50.9336 15.6006 48.9118 15.6006 46.6682V45.3039C15.6006 44.3627 16.3636 43.5996 17.3049 43.5996Z" fill="#3A66AA" stroke="white" stroke-width="3"/>
 </g>
 </g>
-<rect x="1" y="1" width="66" height="66" rx="13" stroke="#1F2A37" stroke-width="2"/>
+<rect x="1" y="1" width="66" height="66" rx="13" stroke="#FFFFFF" stroke-width="2"/>
 <defs>
 <radialGradient id="paint0_radial_52_14850" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(34 2) rotate(90) scale(64)">
 <stop stop-color="#212546"/>
